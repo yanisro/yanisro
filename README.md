@@ -4,12 +4,12 @@
 
 <h4><a href="https://stealsenseitv.github.io/site/">Site Web</a> • <a href="https://bit.ly/2TV0RIg">YouTube</a></h4>
 
-<hr width="50%" style="height:5px;">
-<p><img align="center" src="" alt="yanisro" /></p>
-
-## Mes diplômes  
-<img src="https://imgur.com/IbBihJu" align="left" height="1920" width="1080" />  
-  
+## Mes diplômes 
+  <ul style="list-style-type: none">
+    <li>Brevet des collèges Pro avec mention bien</li>
+    <li>Habilitations Eléctriques B0 ; B1V ; BR</li>
+    <li>Attestation de formation au MOOC de l'ANSSI</li>
+   </ul>
 
 <br/>  
 
@@ -33,10 +33,11 @@
 
 - ### Utilisation Multimètre
 
-- Unités Centrales informatiques
+- ### Unités Centrales informatiques
   - assemblage matériel d'unité centrale type tour
-  - paramétrage BIOS/UEFI : démarrrage du PC
-  - installation de systèmes d'explotation (windows 7, 8 et 10 ; GNU/Linux)
+  - paramétrage BIOS/UEFI : 
+  - démarrrage du PC
+  - installation de systèmes d'explotation (Windows ; GNU/Linux)
   - partionnement disque dur
   
 
