@@ -1,8 +1,8 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Salut! 👋<br>Je m'appelle Yanis Rozand<br>Je suis un étudiant en informatique, un createur de contenue sur youtube.</h3>
+<h3>Je m'appelle Yanis Rozand, j'ai 17ans<br>Je suis un étudiant en informatique, un createur de contenues sur youtube.</h3>
 
-<h4><a href="https://stealsenseitv.github.io/site/">Site Web</a> • <a href="https://bit.ly/2TV0RIg">YouTube</a></h4>
+<h4><a href="https://bit.ly/2TV0RIg">YouTube</a></h4>
 
 ## Mes diplômes 
   <dl>
@@ -11,6 +11,19 @@
     <dd>Attestation de formation au MOOC de l'ANSSI</dd>
    </dl>
 
+## Mes Expériences professionnelles
+  ### Stage de découverte professionnelle
+  <dl>
+    <dt>Entreprise "GresivInfo", 38160 Chatte</dt>
+    <dd>2 Novembre 2021 – 27 Novembre 2021</dd>
+    <dd>Observation du métier de technicien informatique</dd>
+  </dl>
+  
+  <dl>
+    <dt>Entreprise "lds.com", 26530 Le Grand-Serre</dt>
+    <dd>27 Fevrier 2021 – 19 Mars 2021</dd>
+    <dd>Observation du métier de dépolueur informatique</dd>
+  </dl>
 <br/>  
 
 
@@ -35,7 +48,6 @@
     <dd>Mesurer l'intensité d'un courant électrique, via la fonction ampère-metre</dd>
     <dd>Mesurer une différences de potentiels, via la fonction volt-metre</dd>
     <dd>Mesurer une résistance electrique, via la fonction ohm-metre</dd>
-    <dd>Installation de systèmes d'explotation (Windows ; GNU/Linux)</dd>
     <dd>Je sais utiliser le testeur de continuité</dd>
   </dl>
 ----------------------------------------------------
