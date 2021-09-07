@@ -6,9 +6,9 @@
 
 ## Mes diplômes 
   <dl>
-    <dd>Brevet des collèges Pro avec mention bien</dd>
-    <dd>Habilitations Eléctriques B0 ; B1V ; BR</dd>
-    <dd>Attestation de formation au MOOC de l'ANSSI</dd>
+    <dd>Brevet National mention bien</dd>
+    <dd>Attestation d'habilitations éléctriques B0 ; B1V ; BR</dd>
+    <dd>Attestation à la sensibilitation</dd>
    </dl>
 
 ## Mes Expériences professionnelles
