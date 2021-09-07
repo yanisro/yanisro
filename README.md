@@ -8,7 +8,7 @@
   <dl>
     <dd>Brevet National mention bien</dd>
     <dd>Attestation d'habilitations éléctriques B0 ; B1V ; BR</dd>
-    <dd>Attestation à la sensibilitation</dd>
+    <dd>Attestation à la sensibilitation umérique</dd>
    </dl>
 
 ## Mes Expériences professionnelles
