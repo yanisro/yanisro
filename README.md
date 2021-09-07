@@ -44,10 +44,10 @@
 ## Autre Compétences :  
   
   <dl>
-    <dt>Utilisation Multimètre</dt>
-    <dd>Mesurer l'intensité d'un courant électrique, via la fonction ampère-metre</dd>
-    <dd>Mesurer une différences de potentiels, via la fonction volt-metre</dd>
-    <dd>Mesurer une résistance electrique, via la fonction ohm-metre</dd>
+    <dt>Utilisation d'un Multimètre</dt>
+    <dd>Mesurer l'intensité d'un courant électrique, via la fonction ampèremètre</dd>
+    <dd>Mesurer une différences de potentiels, via la fonction voltmètre</dd>
+    <dd>Mesurer une résistance electrique, via la fonction ohmmètre</dd>
     <dd>Je sais utiliser le testeur de continuité</dd>
   </dl>
 ----------------------------------------------------
