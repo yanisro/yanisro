@@ -1,6 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Je m'appelle Yanis Rozand, j'ai 17ans<br>Je suis un étudiant en informatique, un createur de contenues sur youtube.</h3>
+<h3>Je m'appelle Yanis Rozand, j'ai 17 ans<br>Je suis un étudiant en informatique, un createur de contenues sur youtube.</h3>
 
 <h4><a href="https://bit.ly/2TV0RIg">YouTube</a></h4>
 
